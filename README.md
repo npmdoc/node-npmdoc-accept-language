@@ -1,6 +1,6 @@
 # npmdoc-accept-language
 
-#### api documentation for  [accept-language (v3.0.15)](https://github.com/tinganho/node-accept-language)  [![npm package](https://img.shields.io/npm/v/npmdoc-accept-language.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-accept-language) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-accept-language.svg)](https://travis-ci.org/npmdoc/node-npmdoc-accept-language)
+#### basic api documentation for  [accept-language (v3.0.15)](https://github.com/tinganho/node-accept-language)  [![npm package](https://img.shields.io/npm/v/npmdoc-accept-language.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-accept-language) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-accept-language.svg)](https://travis-ci.org/npmdoc/node-npmdoc-accept-language)
 
 #### Accept-Language parser for nodejs
 
@@ -66,7 +66,8 @@
         "test": "node node_modules/mocha/bin/mocha Build/Tests/Test.js"
     },
     "types": "Library/Typings.d.ts",
-    "version": "3.0.15"
+    "version": "3.0.15",
+    "bin": {}
 }
 ```
 
